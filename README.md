@@ -4,7 +4,7 @@ Este proyecto es un ejemplo de cómo crear un archivo un servidor de python que 
 
 1. Clona el repositorio en tu máquina local.
 ```sh
-https://github.com/felipebuitragocarmona/demo-flask-files.git
+git clone https://github.com/felipebuitragocarmona/demo-flask-files.git
 ```
 
 2. Ingresar a la carpeta "backend".
